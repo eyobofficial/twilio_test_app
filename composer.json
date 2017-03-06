@@ -1,0 +1,12 @@
+{
+    "name": "eyob/twilio_test",
+    "require": {
+        "twilio/sdk": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "eyob tariku",
+            "email": "eyobtariku@gmail.com"
+        }
+    ]
+}

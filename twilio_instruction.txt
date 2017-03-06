@@ -1,0 +1,20 @@
+Instruction for PHP Twilio
+==================================
+
+1. In the root directory of the web app, perform the following composer command from the terminal
+
+	$  composer init --require=twilio/sdk
+
+
+2. Then do composer install from the sell
+
+	$  composer install
+
+3. Use the index.php here to setup a php app that uses the twilio library
+
+
+4. If necessary install, php5-curl
+	
+	$  sudo apt-get install php-curl       OR
+
+	$  sudo apt-get install php5-curl
